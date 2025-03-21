@@ -2,10 +2,9 @@ import {
   Link,
   Outlet,
   createRootRoute,
-  redirect,
   useNavigate,
 } from "@tanstack/react-router";
-import { use, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { NewBoardButton } from "../components/NewBoardButton";
 
 export const Route = createRootRoute({

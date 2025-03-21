@@ -1,15 +1,8 @@
-import {
-  createFileRoute,
-  redirect,
-  Router,
-  useNavigate,
-} from "@tanstack/react-router";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { CreateTaskModal } from "../components/createTaskModal";
 import { IoClose } from "react-icons/io5";
-import { createPortal } from "react-dom";
 import { Modal } from "../components/Modal";
-import { GrUpdate } from "react-icons/gr";
 import { AddNewSection } from "../components/AddNewSection";
 
 export interface Subtask {

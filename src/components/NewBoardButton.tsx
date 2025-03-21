@@ -1,6 +1,4 @@
 import { useState } from "react";
-import { Modal } from "./Modal";
-import { IoHandLeft } from "react-icons/io5";
 import { SimpleInputModal } from "./SimpleInputModal";
 
 export const NewBoardButton = ({ setBoards }: any) => {

@@ -1,29 +1,16 @@
-# Rsbuild project
+# Trello "clone"
 
-## Setup
+## Description
+  wanted to to try rsbuild and tanstack router, for some reason the sever crashed randomly, i still don't know why, it might be a problem with rsbuild, other than that pretty fast, also tanstack router is pretty cool, i like the way it works, i might use it in the future.
 
-Install the dependencies:
+## Technologies
+  - React
+  - Tanstack Router
+  - rsbuild
+  - local storage
+  - tailwindcss
 
-```bash
-pnpm install
-```
 
-## Get started
+The code is not perfect, i just wanted to try the router and rsbuild, i might improve it in the future.
 
-Start the dev server:
-
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+But for now, im working on pixel art editor with qwik

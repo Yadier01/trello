@@ -14,3 +14,5 @@
 The code is not perfect, i just wanted to try the router and rsbuild, i might improve it in the future.
 
 But for now, im working on pixel art editor with qwik
+
+[live site](https://trello-rsbuild-tanstack.netlify.app/)
